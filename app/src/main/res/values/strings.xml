@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello, World!</string>
+    <string name="main_text">This is the first application from Group: </string>
+    <string name="footer_text">And the application was developed by: </string>
+</resources>
